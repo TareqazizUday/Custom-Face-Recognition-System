@@ -1,0 +1,88 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Cache files
+*.cache
+*.pkl
+*.joblib
+
+# Model files
+*.h5
+*.hdf5
+*.pb
+*.onnx
+*.tflite
+*.pt
+*.pth
+*.weights
+*.ckpt
+*.model
+*.dat
+*.pkl
+*.xml
+
+# Dataset and large file directories
+data/
+datasets/
+logs/
+output/
+results/
+*.csv
+*.tsv
+*.txt
+*.json
+
+# Large media files
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Anaconda/conda
+conda-meta/
+*.conda
+*.ipynb_checkpoints/
+*.ipynb
+
+# TensorFlow SavedModel directory
+saved_model/
+
+# PyTorch Lightning logs
+lightning_logs/
+
+# Hugging Face Transformers cache
+.cache/
+transformers_cache/
+huggingface_hub/
+
+# Checkpoints
+checkpoints/
+runs/
+
+# Miscellaneous
+*.log
+*.gz
+*.tar
+*.zip
